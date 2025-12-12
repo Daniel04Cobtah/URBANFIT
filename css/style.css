@@ -1,5 +1,19 @@
-.collapse navbar-collapse {
-}
 .body {
     background-color: #737373;
+}
+.navbar-collapse {
+    justify-content: flex-end !important;
+    display: flex !important;
+}
+.nav-link {
+    font-size: 2rem !important;
+
+}
+.navbar-nav
+{
+    width: 71%;
+    justify-content: space-around
+}
+.navbar-brand{
+    font-size: 2.8rem !important;
 }
