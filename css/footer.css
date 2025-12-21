@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital,wght@0,100..900;1,100..900&display=swap");
+.i2 {
+    width: 100%;
+    z-index: -100;
+}
+.footer_body {
+    margin: 0;
+}
+.footer {
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+}
+.h3 {
+    color: #16161c;
+}
+.d2 {
+    background-image: url("/images/image%20(2).png");
+    width: 50%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.d3 {
+    background-image: url("/images/image.png");
+    width: 50%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.d4 {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.55);
+    height: 100%;
+    width: 100%;
+    z-index: 100;
+}
+.h4 {
+    font-size: 5rem;
+    color: #16161c;
+    text-align: center;
+    margin-top: 34px;
+}
+.d2 a {
+    color: #ffffff;
+    font-size: 2.6rem;
+    z-index: 110;
+}
+.d5 {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.p1 {
+    color: #ffffff;
+    font-size: 2rem;
+}
+.d6 {
+    display: flex;
+    height: 40%;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
