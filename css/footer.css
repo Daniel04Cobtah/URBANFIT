@@ -127,8 +127,7 @@ textarea::placeholder {
 }
 .d10 {
     background-color: #151515;
-    width: 49.5%;
-    padding: 3px;
+    width: 50%;
 }
 .h6 {
     color: #ffff;
@@ -139,10 +138,13 @@ textarea::placeholder {
     font-family: "Noto Serif Display";
 }
 .p3 {
-    font-size: 1.6rem;
+    font-size: 1.8rem;
     color: #ffff;
     display: flex;
     justify-content: center;
     margin: 0;
     font-family: "Noto Serif Display";
+}
+.d9 {
+    display: flex;
 }
