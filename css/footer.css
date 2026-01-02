@@ -1,0 +1,150 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital,wght@0,100..900;1,100..900&display=swap");
+.i2 {
+    width: 100%;
+    z-index: -100;
+}
+.footer_body {
+    margin: 0;
+}
+.footer {
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+}
+.h3 {
+    color: #16161c;
+}
+.d2 {
+    background-image: url("/images/image%20(2).png");
+    width: 50%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.d3 {
+    background-image: url("/images/image.png");
+    width: 50%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.d4 {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.55);
+    height: 100%;
+    width: 100%;
+    z-index: 100;
+}
+.h4 {
+    font-size: 5rem;
+    color: #16161c;
+    text-align: center;
+    margin-top: 34px;
+    font-family: "Noto Serif Display";
+}
+.d2 a {
+    color: #ffffff;
+    font-size: 2.6rem;
+    z-index: 110;
+}
+.d5 {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.p1 {
+    color: #ffffff;
+    font-size: 1.8rem;
+    text-align: center;
+    z-index: 101;
+    font-family: "Noto Serif Display";
+}
+.d6 {
+    display: flex;
+    height: 40%;
+    justify-content: space-evenly;
+    flex-direction: column;
+    font-family: "Noto Serif Display";
+}
+.h5 {
+    font-size: 3.5rem;
+    color: #16161c;
+    text-align: center;
+    margin-top: 24px;
+    font-family: "Noto Serif Display";
+}
+.p2 {
+    color: #ffffff;
+    font-size: 1.8rem;
+    text-align: center;
+    z-index: 112;
+    font-family: "Noto Serif Display";
+    margin: 0;
+    margin-top: 40px;
+}
+.d7 {
+    display: flex;
+    height: 40%;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-bottom: 35px;
+    font-family: "Noto Serif Display";
+}
+.d3 input {
+    padding: 20px 25px;
+    background-color: transparent;
+    border: 3px solid white;
+    z-index: 101;
+    padding-left: 0;
+    font-size: 30px;
+    border-right: none;
+    color: #ffff;
+}
+input::placeholder,
+textarea::placeholder {
+    color: #ffffff;
+}
+
+.d8 {
+    display: flex;
+    justify-content: center;
+}
+.b1 {
+    width: 20%;
+    padding: 4px 0;
+    z-index: 101;
+    font-size: 1.7rem;
+    color: #ffffff;
+    background-color: transparent;
+    border: 3px solid white;
+    border-left: none;
+}
+.d10 {
+    background-color: #151515;
+    width: 50%;
+}
+.h6 {
+    color: #ffff;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    font-family: "Noto Serif Display";
+}
+.p3 {
+    font-size: 1.8rem;
+    color: #ffff;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    font-family: "Noto Serif Display";
+}
+.d9 {
+    display: flex;
+}
